@@ -1,0 +1,4 @@
+# Proyecto sin dependencias externas
+# Requiere Python 3.x
+# Nota: utiliza tkinter (incluido en la librería estándar).
+# En caso de no estar disponible, debe instalarse manualmente.
